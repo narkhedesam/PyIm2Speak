@@ -1,0 +1,7 @@
+opencv-python~=4.2.0.34
+pytesseract~=0.3.4
+argparse~=1.4.0
+Pillow~=7.1.1
+langdetect~=1.0.8
+gTTS~=2.1.1
+playsound~=1.2.2
